@@ -25,7 +25,7 @@ const integrantes = [
     {
         nombre: 'Gaspar Lara Reinaldo Emmanuel',
         foto: 'fotoGaspar.jpg', // la foto del gaspar
-        descripcion: 'igual de septimo semestre, NC: desconocido .'
+        descripcion: 'igual de septimo semestre, NC: 22030351 .'
     }
 ];
 
@@ -52,4 +52,5 @@ nextIntegranteButton.addEventListener('click', () => {
 });
 
 // Llamamos a la función al cargar la página para mostrar el primer integrante
+
 actualizarIntegrate();
